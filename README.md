@@ -2,6 +2,7 @@
 
 - 🌿 I'm proficient in **Python**, **Java**, **HTML**, **CSS**, and **Javascript**.
 - 🌱 I’m currently learning Ruby, React, and eveything backend.
+- 🔎 I am also interest in AI/machine learning and especially how this interacts with language, I will be looking closely into NLP. 🗣
 - 🤝 I’m looking to collaborate on projects that has anything to do with skateboarding!!!🛹, I am a skater myself would love to find ways to benefit this community through software.
 
 ---
